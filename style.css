@@ -1,0 +1,23 @@
+
+/* creating a fun UX/UI */
+body {
+    background: linear-gradient(110deg, #fdcd3b 60%, #ffed4b 60%);
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 20px;
+}
+
+/* changing H1 and words id font*/
+h1{
+    
+    font-family: 'Noto Sans JP';
+    font-style: normal;
+    font-weight: 600;
+    font-display: swap;
+}
+#words{
+    font-family: 'Noto Sans JP';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+}
